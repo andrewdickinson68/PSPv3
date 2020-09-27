@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser PSPv3.ipynb
+web: voila --debug --port=$PORT --no-browser PSPv3.ipynb
