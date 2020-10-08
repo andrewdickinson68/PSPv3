@@ -5,3 +5,5 @@ numpy
 matplotlib
 pandas
 voila
+io
+requests
